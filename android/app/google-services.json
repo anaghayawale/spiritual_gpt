@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "29357339679",
+    "project_id": "spiritual-gpt-b4716",
+    "storage_bucket": "spiritual-gpt-b4716.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29357339679:android:cb5ede38a2fa54308ad12a",
+        "android_client_info": {
+          "package_name": "com.example.spiritual_gpt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29357339679-ss9334g57edtf0p15nk3g9bpcnknpi02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spiritual_gpt",
+            "certificate_hash": "01422f099973b2d4c5bb732ea6dc340808fa59eb"
+          }
+        },
+        {
+          "client_id": "29357339679-n945ff6e8htu2q67bnjgton67t736cef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5YvRJ3-337NBKmcr4PZNHKEGFuaAMYDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29357339679-j9i2lnsnukurjhoi0fj2c17uk3443ra5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "29357339679-i43oj6r9fvc91ge40p8irkchup3bmidj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.spiritualGpt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
